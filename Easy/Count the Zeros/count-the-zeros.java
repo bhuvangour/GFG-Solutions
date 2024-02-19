@@ -32,7 +32,7 @@ public class Main {
 //User function Template for Java
 
 class Solution {
-  int countZeroes(int[] arr, int n) {
+int countZeroes(int[] arr, int n) {
         // code here
         
         int count = 0;
